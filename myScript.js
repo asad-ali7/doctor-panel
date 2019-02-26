@@ -13,6 +13,7 @@ let toggleDiv = (id) => {
     // $("#"+id).toggle();
     $(`#${id}`).toggle();
 }
+//doctors array
 let doctors = [{
     name: 'Saad',
     email: 'saad@gmail.com',
